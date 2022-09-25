@@ -39,3 +39,8 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 ```            
 
 ```
+./
+├── README.md
+└── YLuo-Assignment 0.ipynb
+
+0 directories, 2 files
