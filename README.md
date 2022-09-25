@@ -36,16 +36,10 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 
 # Organization of this directory
 
-```            
-
 ```
 ./
 ├── README.md
 └── YLuo-Assignment 0.ipynb
 
 0 directories, 2 files
-./
-├── README.md
-└── YLuo-Assignment 0.ipynb
-
-0 directories, 2 files
+```
