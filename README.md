@@ -39,7 +39,10 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 ```
 ./
 ├── README.md
-└── YLuo-Assignment 0.ipynb
+├── YLuo-Assignment 0.ipynb
+├── yl5086_gcp_work_example_screenshot_1.png
+├── yl5086_gcp_work_example_screenshot_2.png
+└── yl5086_gcp_work_example_screenshot_3.png
 
-0 directories, 2 files
+0 directories, 5 files
 ```
